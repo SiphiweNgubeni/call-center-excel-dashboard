@@ -40,7 +40,7 @@ Microsoft Excel: PivotTables, PivotCharts, slicers, and dashboard design.
 ## Repository Contents
 
 ```
-├── Call Centere Data Analysis.xlsx   # Data, pivots and dashboard
+├── Call Center Data Analysis.xlsx    # Data, pivots and dashboard
 ├── dashboard.png                     # Dashboard screenshot
 └── README.md
 ```
@@ -48,7 +48,7 @@ Microsoft Excel: PivotTables, PivotCharts, slicers, and dashboard design.
 ## Usage
 
 1. Download or clone this repository.
-2. Open `Call Centere Data Analysis.xlsx` in Excel. The dashboard is interactive, so it must be opened in Excel (not a GitHub preview) to work.
+2. Open `Call Center Data Analysis.xlsx` in Excel. The dashboard is interactive, so it must be opened in Excel (not a GitHub preview) to work.
 3. Go to the dashboard sheet.
 4. **Interact with the Representative slicer** in the top-right corner:
    - Click a name to filter every chart and KPI card to that representative.
